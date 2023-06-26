@@ -1,6 +1,9 @@
-👋- Hi, I’m @karanjot514	
+👋- Hi, I’m @karanjot514.
+
 👀- I’m interested in Networking.
+
 🌱- I’m currently learning MYSQL, LINUX, AND NETWORKING.
+
 💞️- I’m looking to collaborate on COMPUTER NETWORKING PROJECT, PYTHON CODING, AND SQL.
 
 <!---
